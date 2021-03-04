@@ -20,30 +20,30 @@ sections:
 #        url: '#page-top'
 #        class: btn-light
 #
-  - type: services.html
-    section_id: services
-    #background_style: bg-info
-    title: At Your Service
-    services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+#  - type: services.html
+#    section_id: services
+#    #background_style: bg-info
+#    title: At Your Service
+#    services:
+#      - title: Sturdy Templates
+#        text: Our templates are updated regularly so they don't break.
+#        icon: fa-gem text-info
+#        url: https://startbootstrap.com/
+#      - title: Ready to Ship
+#        text: You can use this theme as is, or you can make changes!
+#        icon: fa-paper-plane
+#      - title: Up to Date
+#        text: We update dependencies to keep things fresh.
+#        icon: fa-laptop-code
+#      - title: Made with Love
+#        text: You have to make your websites with love these days!
+#        icon: fa-heart
+#      - title: Other 1
+#        text: Some not-so long text here.
+#        icon: fa-heart
+#      - title: Other 2
+#        text: Some not-so long text here.
+#        icon: fa-heart
 
   - type: events.html
     section_id: events
@@ -133,18 +133,18 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: E-Mail
+    - title: info@forestadventure.ru
       icon: fa-envelope
       url: mailto:info@forestadventure.ru
-    - title: Telegram
+    - title: @forestadventure
       icon: fa-telegram
       icon_type: fab
       url: 'https://t.me/forestadventure'
-    - title: VK
+    - title: forestadventureru
       icon: fa-vk
       icon_type: fab
       url: 'https://vk.com/forestadventureru'
-    - title: Instagram
+    - title: @forest_adventure_ru
       icon: fa-instagram
       icon_type: fab
       url: 'http://instagram.com/forest_adventure_ru'
