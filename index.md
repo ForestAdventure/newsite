@@ -53,23 +53,23 @@ sections:
       - title: Рогейн Ёлкино
         text: This is a very short project description.
         # the images are located in:
-        icon: assets/img/portfolio/thumbnails/1.jpg
+        img: assets/img/portfolio/thumbnails/1.jpg
         url: '/yolkino2021'
       - title: Project 2
         text: This is a very short project description.
-        icon: assets/img/portfolio/thumbnails/2.jpg
+        img: assets/img/portfolio/thumbnails/2.jpg
         url: '#'
       - title: Project 3
         text: This is a very short project description.
-        icon: assets/img/portfolio/thumbnails/3.jpg
+        img: assets/img/portfolio/thumbnails/3.jpg
         url: '#'
       - title: Project 4
         text: This is a very short project description.
-        icon: assets/img/portfolio/thumbnails/4.jpg
+        img: assets/img/portfolio/thumbnails/4.jpg
         url: '#'
       - title: Project 5
         text: This is a very short project description.
-        icon: assets/img/portfolio/thumbnails/5.jpg
+        img: assets/img/portfolio/thumbnails/5.jpg
         url: '#'
 
 #  - type: aside.html
