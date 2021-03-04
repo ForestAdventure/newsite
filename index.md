@@ -133,10 +133,10 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: info@forestadventure.ru
+    - title: 'info@forestadventure.ru'
       icon: fa-envelope
       url: mailto:info@forestadventure.ru
-    - title: @forestadventure
+    - title: '@forestadventure'
       icon: fa-telegram
       icon_type: fab
       url: 'https://t.me/forestadventure'
@@ -144,7 +144,7 @@ sections:
       icon: fa-vk
       icon_type: fab
       url: 'https://vk.com/forestadventureru'
-    - title: @forest_adventure_ru
+    - title: '@forest_adventure_ru'
       icon: fa-instagram
       icon_type: fab
       url: 'http://instagram.com/forest_adventure_ru'
