@@ -57,7 +57,7 @@ sections:
         place: Воскресенский ГО
         actions:
           - title: Подробнее
-            url: '/yolkino2021'
+            url: {{ '/yolkino2021' | relative_url }}
       - title: Project 2
         text: This is a very short project description.
         img: assets/img/portfolio/thumbnails/2.jpg
