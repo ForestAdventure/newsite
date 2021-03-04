@@ -55,7 +55,9 @@ sections:
         img: assets/img/portfolio/thumbnails/1.jpg
         date: 10 июля 2021
         place: Воскресенский ГО
-        url: '/yolkino2021'
+        actions:
+          - title: Подробнее
+            url: '/yolkino2021'
       - title: Project 2
         text: This is a very short project description.
         img: assets/img/portfolio/thumbnails/2.jpg
