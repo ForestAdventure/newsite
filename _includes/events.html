@@ -8,7 +8,12 @@
         <img class="card-img-top" src="{{ e.img }}" alt="">
         <div class="card-body">
           <h4 class="card-title">{{ e.title }}</h4>
-          <h5 class="card-subtitle"><i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i>{{ e.date }}</h5>
+          {% if e.date %}
+            <h5 class="card-subtitle"><i class="far fa-lg fa-calendar"></i>{{ e.date }}</h5>
+          {% endif %}
+          {% if e.place %}
+            <h5 class="card-subtitle"><i class="far fa-lg fa-map-marker"></i>{{ e.place}}</h5>
+          {% endif %}
           <p class="card-text">{{ e.text }}</p>
         </div>
       </div>
