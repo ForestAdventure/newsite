@@ -15,7 +15,7 @@
             <p class="card-text"><i class="fa fa-lg fa-map-marker"></i>{{ e.place}}</p>
           {% endif %}
           <p class="card-text">{{ e.text }}</p>
-          {% include actions.html actions=section.actions %}
+          {% include actions.html actions=e.actions %}
         </div>
       </div>
       {% endfor %}
