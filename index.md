@@ -6,7 +6,7 @@ header:
     Рогейны и спортивное ориентирование для всех!
   action: # action button is optional
     label: Календарь
-    url: '#calendar'
+    url: '#events'
 
 
 sections:
@@ -21,7 +21,7 @@ sections:
 #        class: btn-light
 #
   - type: services.html
-    section_id: calendar
+    section_id: services
     #background_style: bg-info
     title: At Your Service
     services:
@@ -52,7 +52,6 @@ sections:
     events:
       - title: Рогейн Ёлкино
         text: This is a very short project description.
-        # the images are located in:
         img: assets/img/portfolio/thumbnails/1.jpg
         url: '/yolkino2021'
       - title: Project 2
@@ -62,14 +61,6 @@ sections:
       - title: Project 3
         text: This is a very short project description.
         img: assets/img/portfolio/thumbnails/3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        img: assets/img/portfolio/thumbnails/4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        img: assets/img/portfolio/thumbnails/5.jpg
         url: '#'
 
 #  - type: aside.html
