@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: QRогейн Ёлкино
 subtitle: Положение
 feature-img: "images/2020/map-part-yolkino.png" 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Рогейн Forest Adventure 2020
 feature-img: "images/header-feature-image.png"
 thumbnail: "images/2020/forest-hor-thumb.jpg"
@@ -70,7 +70,7 @@ tags: [Положение, Рогейн, "2020"]
 
 Образцы карты
 
-{% include aligner.html images="images/2020/map-example1.png,images/2020/map-example2.png,images/2020/map-example3.png" column=3 %}
+{% include aligner.html images="assets/img/2020/map-example1.png,assets/img/2020/map-example2.png,assets/img/2020/map-example3.png" column=3 %}
 
 Программа
 ------------------------------------
