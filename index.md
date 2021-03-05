@@ -135,10 +135,11 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Оставайтесь на связи!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Новости, фотографии, полезную информацию мы публикуем на наших страницах в социальных сетях.
+      Там же вы можете задать любые вопросы, поделиться впечатлениями.
+      Или пишите нам на электнонную почту, с радостью ответим!
     actions:
     - title: 'info@forestadventure.ru'
       icon: fa-envelope
