@@ -1,7 +1,7 @@
 ---
 layout: page
 title: История
-#permalink: /history/
+permalink: /history/
 feature-img: "images/header-feature-image.png"
 ---
 
