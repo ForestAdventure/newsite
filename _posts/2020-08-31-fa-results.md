@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Итоги рогейна Forest Adventure 2020
 tags: [Рогейн, "2020"]
 ---
