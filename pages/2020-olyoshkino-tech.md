@@ -3,7 +3,6 @@ layout: page
 title: Ночное О-лёшкино 2020. Техинформация
 permalink: /olyoshkino2020-tech/
 hide: true
-tags: ["2020"]
 ---
 
 [Основная информация]({{"/2020/11/17/olyoshkino" | relative_url}})

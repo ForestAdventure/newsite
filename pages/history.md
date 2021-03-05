@@ -3,8 +3,6 @@ layout: page
 title: История
 permalink: /history/
 feature-img: "images/header-feature-image.png"
-bootstrap: true
-tags: [История]
 ---
 
 2020 год
@@ -28,8 +26,6 @@ tags: [История]
 [Результаты](https://iorient.ru/Competition.aspx?CompetitionId=123){: .btn .btn-primary}
 [Карта]({{ "/files/2020/map-yolkino2020.png" | relative_url }}){: .btn .btn-primary}
 [Положение]({{ "/2020/06/22/yolkino-info.html" | relative_url}}){: .btn .btn-primary}
-
-<!-- {% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %} -->
 
 <br>
 
