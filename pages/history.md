@@ -14,7 +14,7 @@ permalink: /history/
 # QRогейн Ёлкино
 <br>
 
-<i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> С 24 июня по 19 июля.
+<i class="far fa-lg fa-calendar" aria-hidden="true"></i> С 24 июня по 19 июля.
 
 <i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Деревня Ёлкино, Воскресенский ГО.
 
@@ -35,7 +35,7 @@ permalink: /history/
 # Рогейн Forest Adventure
 <br>
 
-<i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> 29 августа
+<i class="far fa-lg fa-calendar" aria-hidden="true"></i> 29 августа
 
 <i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Станция Заполицы Казанского направления МЖД.
 
@@ -56,7 +56,7 @@ permalink: /history/
 # Большое ночное ориентирование Андрея Зайцева
 <br>
 
-<i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> 14 ноября. 
+<i class="far fa-lg fa-calendar" aria-hidden="true"></i> 14 ноября. 
 
 <i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Красногорский лес.
 
