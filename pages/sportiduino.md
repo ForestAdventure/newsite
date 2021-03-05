@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Система электронной отметки Sportiduino
+title: Sportiduino
 permalink: /sportiduino/
 ---
+
+Система электронной отметки
+===========================
 
 {% include aligner.html images="assets/img/2020/sportiduino_punching_1.jpg,assets/img/2020/sportiduino_punching_2.jpg" %}
 *Способ закрепления чипа и отметка на контрольном пункте.*
