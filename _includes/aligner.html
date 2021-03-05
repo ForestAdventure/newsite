@@ -1,8 +1,8 @@
 {% assign images = include.images | split: ',' %}
 <div class="row">
     {% for image in images %}
-    <div class="col-sm" >
-        <img class="rounded"
+    <div class="col" >
+        <img class="rounded img-fluid"
              src="{{ image | prepend: '/' | relative_url }}"
              alt="{{ image | prepend: '/' | split: '/' | last }}">
     </div>

@@ -2,14 +2,13 @@
 layout: page
 title: История
 permalink: /history/
-feature-img: "images/header-feature-image.png"
 ---
 
 2020 год
 --------
 
 <div style="float:left;" markdown="1">
-![logo]({{ "/images/2020/logo-yolkino-100.png" | relative_url }})
+![logo]({{ "assets/img/2020/logo-yolkino-100.png" | relative_url }})
 </div>
 
 # QRогейн Ёлкино
@@ -30,7 +29,7 @@ feature-img: "images/header-feature-image.png"
 <br>
 
 <div style="float:left;" markdown="1">
-![logo]({{ "/images/2020/logo-fa-100.jpg" | relative_url }})
+![logo]({{ "assets/img/2020/logo-fa-100.jpg" | relative_url }})
 </div>
 
 # Рогейн Forest Adventure
@@ -51,7 +50,7 @@ feature-img: "images/header-feature-image.png"
 <br>
 
 <div style="float:left;" markdown="1">
-![logo]({{ "/images/2020/logo-bno-solid-black-100.jpg" | relative_url }})
+![logo]({{ "assets/img/2020/logo-bno-solid-black-100.jpg" | relative_url }})
 </div>
 
 # Большое ночное ориентирование Андрея Зайцева
