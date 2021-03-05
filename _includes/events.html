@@ -10,10 +10,10 @@
           <div class="card-body">
             <h4 class="card-title">{{ e.title }}</h4>
             {% if e.date %}
-              <p class="card-text"><i class="far fa-lg fa-calendar"></i>{{ e.date }}</p>
+              <p class="card-text"><i class="far fa-lg fa-calendar"></i>&nbsp{{ e.date }}</p>
             {% endif %}
             {% if e.place %}
-              <p class="card-text"><i class="fa fa-lg fa-map-marker"></i>{{ e.place}}</p>
+              <p class="card-text"><i class="fa fa-lg fa-map-marker"></i>&nbsp{{ e.place }}</p>
             {% endif %}
             <p class="card-text">{{ e.text }}</p>
             {% include actions.html actions=e.actions %}
