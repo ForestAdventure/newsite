@@ -51,7 +51,7 @@ sections:
     title: Наши события
     events:
       - title: Рогейн Ёлкино
-        img: assets/img/portfolio/thumbnails/1.jpg
+        img: assets/img/2021/yolkino1.jpg
         date: 10 июля 2021 г.
         place: Воскресенский ГО
         text: >-
@@ -67,7 +67,7 @@ sections:
         text: 8/4 часа бегом, 6/3 часа на велосипеде
 
       - title: Большое ночное ориентирование Андрея Зайцева
-        img: assets/img/portfolio/thumbnails/3.jpg
+        img: assets/img/2021/bno1.jpg
         date: 13-14 ноября 2021 г.
         text: В 2021 году БНО пройдёт уже в 16-й раз!
         actions:
