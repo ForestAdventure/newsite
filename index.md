@@ -74,12 +74,6 @@ sections:
           - title: Как это было
             url: 'http://tkmgtu.ru/library/Большое_Ночное_Ориентирование'
 
-      - title: Project 4
-        text: This is a very short project description.
-        img: assets/img/portfolio/thumbnails/4.jpg
-        url: '#'
-
-
 #  - type: aside.html
 #    section_id: aside
 #    title: Free Download at Start Bootstrap!
