@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Система электронной отметки Sportiduino
-permalink: /sportiduino/
-hide: true
+#permalink: /sportiduino/
 ---
 
 {% include aligner.html images="images/2020/sportiduino_punching_1.jpg,images/2020/sportiduino_punching_2.jpg" column=2 %}
