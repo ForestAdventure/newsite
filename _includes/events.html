@@ -2,20 +2,22 @@
   <div class="container">
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider my-4">
-    <div class="card-deck">
+    <div class="row row-cols-1 row-cols-md-2">
       {% for e in section.events %}
-      <div class="card">
-        <img class="card-img-top" src="{{ e.img }}" alt="">
-        <div class="card-body">
-          <h4 class="card-title">{{ e.title }}</h4>
-          {% if e.date %}
-            <p class="card-text"><i class="far fa-lg fa-calendar"></i>{{ e.date }}</p>
-          {% endif %}
-          {% if e.place %}
-            <p class="card-text"><i class="fa fa-lg fa-map-marker"></i>{{ e.place}}</p>
-          {% endif %}
-          <p class="card-text">{{ e.text }}</p>
-          {% include actions.html actions=e.actions %}
+      <div class="col mb-4">
+        <div class="card">
+          <img class="card-img-top" src="{{ e.img }}" alt="...">
+          <div class="card-body">
+            <h4 class="card-title">{{ e.title }}</h4>
+            {% if e.date %}
+              <p class="card-text"><i class="far fa-lg fa-calendar"></i>{{ e.date }}</p>
+            {% endif %}
+            {% if e.place %}
+              <p class="card-text"><i class="fa fa-lg fa-map-marker"></i>{{ e.place}}</p>
+            {% endif %}
+            <p class="card-text">{{ e.text }}</p>
+            {% include actions.html actions=e.actions %}
+          </div>
         </div>
       </div>
       {% endfor %}
