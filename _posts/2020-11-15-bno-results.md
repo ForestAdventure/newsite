@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Результаты БНО
 tags: [БНО, "2020"]
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Ночное О-лёшкино 2020
 regulations: true
 tags: [Положение, "2020"]
