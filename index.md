@@ -61,7 +61,7 @@ sections:
             url: '/yolkino2021'
 
       - title: Рогейн Forest Adventure
-        img: assets/img/portfolio/thumbnails/2.jpg
+        img: assets/img/2021/nerskaya.jpg
         date: 28 августа 2021 г.
         place: Орехово-Зуевский ГО, берег реки Нерской
         text: 8/4 часа бегом, 6/3 часа на велосипеде
