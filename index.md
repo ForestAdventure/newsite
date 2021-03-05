@@ -51,21 +51,29 @@ sections:
     title: Наши события
     events:
       - title: Рогейн Ёлкино
-        text: This is a very short project description.
         img: assets/img/portfolio/thumbnails/1.jpg
-        date: 10 июля 2021
+        date: 10 июля 2021 г.
         place: Воскресенский ГО
+        text: >-
+          5 и 3 часа бегом или на велосипеде
         actions:
           - title: Подробнее
             url: '/yolkino2021'
-      - title: Project 2
-        text: This is a very short project description.
+
+      - title: Рогейн Forest Adventure
         img: assets/img/portfolio/thumbnails/2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+        date: 28 августа 2021 г.
+        place: Орехово-Зуевский ГО, берег реки Нерской
+        text: 8/4 часа бегом, 6/3 часа на велосипеде
+
+      - title: Большое ночное ориентирование Андрея Зайцева
         img: assets/img/portfolio/thumbnails/3.jpg
-        url: '#'
+        date: 13-14 ноября 2021 г.
+        text: В 2021 году БНО пройдёт уже в 16-й раз!
+        actions:
+          - title: Как это было
+            url: 'http://tkmgtu.ru/library/Большое_Ночное_Ориентирование'
+
       - title: Project 4
         text: This is a very short project description.
         img: assets/img/portfolio/thumbnails/4.jpg
