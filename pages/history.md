@@ -2,6 +2,27 @@
 layout: page
 title: История
 permalink: /history/
+
+sections:
+  - type: events.html
+    section_id: 2020
+    #background_style: bg-dark
+    title: 2020 год
+    events:
+      - title: QRогейн Ёлкино
+        img: assets/img/2020/logo-yolkino-100.jpg
+        date: С 24 июня по 19 июля 2020 г.
+        place: Воскресенский ГО
+        text: >-
+          4 часа бегом или 3 часа на велосипеде.
+        actions:
+          - title: Результаты
+            url: 'https://iorient.ru/Competition.aspx?CompetitionId=123'
+          - title: Карта
+            url: '/files/2020/map-yolkino2020.png'
+          - title: Положение
+            url: '/2020/06/22/yolkino-info.html'
+
 ---
 
 2020 год
