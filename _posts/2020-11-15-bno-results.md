@@ -12,8 +12,8 @@ tags: [БНО, "2020"]
 
 Карты
 
-[![]({{ "/images/2020/map-bno2020-v-thumb.png" | relative_url }} "Дистанции В1, В2, В3")]({{ "/files/2020/map-bno2020-v.png" | relative_url }})
-[![]({{ "/images/2020/map-bno2020-zn-thumb.png" | relative_url }} "Дистанция ЗН")]({{ "/files/2020/map-bno2020-zn.png" | relative_url }})
+[![]({{ "assets/img/2020/map-bno2020-v-thumb.png" | relative_url }} "Дистанции В1, В2, В3")]({{ "/files/2020/map-bno2020-v.png" | relative_url }})
+[![]({{ "assets/img/2020/map-bno2020-zn-thumb.png" | relative_url }} "Дистанция ЗН")]({{ "/files/2020/map-bno2020-zn.png" | relative_url }})
 
 [GPS трансляция](http://viewer.o-gps-center.ru/viewer/event/8521/)
 (можно добавлять треки)
