@@ -10,7 +10,8 @@ sections:
     title: 2020 год
     events:
       - title: QRогейн Ёлкино
-        img: assets/img/2020/logo-yolkino-100.jpg
+        logo: assets/img/2020/logo-yolkino-100.png
+        card_style: text-center
         date: С 24 июня по 19 июля 2020 г.
         place: Воскресенский ГО
         text: >-
