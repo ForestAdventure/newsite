@@ -19,14 +19,17 @@ sections:
         actions:
           - title: Результаты
             url: 'https://iorient.ru/Competition.aspx?CompetitionId=123'
+            small: true
           - title: Карта
             url: '/files/2020/map-yolkino2020.png'
             relative: true
+            small: true
           - title: Положение
             url: '/2020/06/22/yolkino-info.html'
             relative: true
+            small: true
 
-      - title: Рогейн Forest Adventure
+      - title: Рогейн Forest&nbsp;Adventure
         logo: assets/img/2020/logo-fa-100.jpg
         card_style: text-center
         date: 29 августа 2020 г.
@@ -38,14 +41,17 @@ sections:
           - title: Результаты
             url: '/2020/08/31/fa-results.html'
             relative: true
+            small: true
           - title: Карта
             url: '/files/2020/map-zapolitsi2020.png'
             relative: true
+            small: true
           - title: Положение
             url: '/2020/07/16/fa-regulations.html'
             relative: true
+            small: true
 
-      - title: Большое ночное ориентирование Андрея Зайцева
+      - title: Большое ночное ориентирование&nbsp;Андрея Зайцева
         logo: assets/img/2020/logo-bno-solid-black-100.jpg
         card_style: text-center
         date: 14 ноября 2020 г.
@@ -57,57 +63,16 @@ sections:
           - title: Результаты и карты
             url: '/2020/11/15/bno-results.html'
             relative: true
+            small: true
           - title: Фото
             url: 'https://vk.com/album-190261264_274434115'
+            small: true
           - title: Положение
             url: '/2020/11/02/bno2020-maininfo.html'
             relative: true
+            small: true
 
 
 
 ---
-
-<div style="float:left;" markdown="1">
-![logo]({{ "assets/img/2020/logo-bno-solid-black-100.jpg" | relative_url }})
-</div>
-
-# Большое ночное ориентирование Андрея Зайцева
-<br>
-
-<i class="far fa-lg fa-calendar" aria-hidden="true"></i> 14 ноября. 
-
-<i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Красногорский лес.
-
-Наш любимый традиционный старт по ориентированию в ночных условиях.
-
-Три дистанции: выбор В1 (40 КП, ~20 км), выбор В2 (20 КП, ~9,5 км), заданное направление ЗН (23 КП, 16,6 км).
-
-[Результаты и карты]({{ "/2020/11/15/bno-results.html" | relative_url}}){: .btn .btn-primary}
-[Фото](https://vk.com/album-190261264_274434115){: .btn .btn-primary}
-[История](http://tkmgtu.ru/library/Большое_Ночное_Ориентирование){: .btn .btn-primary}
-[Положение]({{ "/2020/11/02/bno2020-maininfo.html" | relative_url}}){: .btn .btn-primary}
-
-2020 год
---------
-
-<div style="float:left;" markdown="1">
-![logo]({{ "assets/img/2020/logo-fa-100.jpg" | relative_url }})
-</div>
-
-# Рогейн Forest Adventure
-<br>
-
-<i class="far fa-lg fa-calendar" aria-hidden="true"></i> 29 августа
-
-<i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Станция Заполицы Казанского направления МЖД.
-
-4 и 8 часов бегом, 3 и 6 часов на велосипеде, 1,5 часа родители-дети.
-
-Красивый и приятный лес, скоростные дороги, новая карта и море ягод.
-
-[Результаты]({{ "/2020/08/31/fa-results.html" | relative_url}}){: .btn .btn-primary}
-[Карта]({{ "/files/2020/map-zapolitsi2020.png" | relative_url }}){: .btn .btn-primary}
-[Положение]({{ "/2020/07/16/fa-regulations.html" | relative_url}}){: .btn .btn-primary}
-
-<br>
 

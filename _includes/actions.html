@@ -6,7 +6,11 @@
       {% if action.relative %}
         {% assign url = action.url | relative_url %}
       {% endif %}
-      <a href="{{ url }}" class="btn btn-xl js-scroll-trigger {{ action.class | default: "btn-primary" }}">{{ action.title }}</a>
+      {% assign class = "btn btn-xl js-scroll-trigger" %}
+      {% if action.small %}
+        {% assign class = "btn rounded-pill js-scroll-trigger" %}
+      {% endif %}
+      <a href="{{ url }}" class="{{ class }} {{ action.class | default: "btn-primary" }}">{{ action.title }}</a>
     {% endfor %}
   </div>
 </div>
