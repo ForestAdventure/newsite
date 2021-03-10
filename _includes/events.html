@@ -6,7 +6,7 @@
       {% for e in section.events %}
       <div class="col mb-4">
         <div class="card h-100">
-          <img class="card-img-top" src="{{ e.img }}" alt="...">
+          <img class="card-img-top" src="{{ e.img | relative_url }}" alt="{{ e.img | split: '/' | last }}">
           <div class="card-body">
             <h4 class="card-title">{{ e.title }}</h4>
             {% if e.date %}
