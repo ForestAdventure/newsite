@@ -21,34 +21,74 @@ sections:
             url: 'https://iorient.ru/Competition.aspx?CompetitionId=123'
           - title: Карта
             url: '/files/2020/map-yolkino2020.png'
+            relative: true
           - title: Положение
             url: '/2020/06/22/yolkino-info.html'
+            relative: true
+
+      - title: Рогейн Forest Adventure
+        logo: assets/img/2020/logo-fa-100.jpg
+        card_style: text-center
+        date: 29 августа 2020 г.
+        place: Станция Заполицы Казанского направления МЖД
+        text: >-
+            4 и 8 часов бегом, 3 и 6 часов на велосипеде, 1,5 часа родители-дети.
+            Красивый и приятный лес, скоростные дороги, новая карта и море ягод.
+        actions:
+          - title: Результаты
+            url: '/2020/08/31/fa-results.html'
+            relative: true
+          - title: Карта
+            url: '/files/2020/map-zapolitsi2020.png'
+            relative: true
+          - title: Положение
+            url: '/2020/07/16/fa-regulations.html'
+            relative: true
+
+      - title: Большое ночное ориентирование Андрея Зайцева
+        logo: assets/img/2020/logo-bno-solid-black-100.jpg
+        card_style: text-center
+        date: 14 ноября 2020 г.
+        place: Красногорский лес
+        text: >-
+            Наш любимый традиционный старт по ориентированию в ночных условиях.
+            Три дистанции: выбор В1 (40 КП, ~20 км), выбор В2 (20 КП, ~9,5 км), заданное направление ЗН (23 КП, 16,6 км).
+        actions:
+          - title: Результаты и карты
+            url: '/2020/11/15/bno-results.html'
+            relative: true
+          - title: Фото
+            url: 'https://vk.com/album-190261264_274434115'
+          - title: Положение
+            url: '/2020/11/02/bno2020-maininfo.html'
+            relative: true
+
+
 
 ---
 
-2020 год
---------
-
 <div style="float:left;" markdown="1">
-![logo]({{ "assets/img/2020/logo-yolkino-100.png" | relative_url }})
+![logo]({{ "assets/img/2020/logo-bno-solid-black-100.jpg" | relative_url }})
 </div>
 
-# QRогейн Ёлкино
+# Большое ночное ориентирование Андрея Зайцева
 <br>
 
-<i class="far fa-lg fa-calendar" aria-hidden="true"></i> С 24 июня по 19 июля.
+<i class="far fa-lg fa-calendar" aria-hidden="true"></i> 14 ноября. 
 
-<i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Деревня Ёлкино, Воскресенский ГО.
+<i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Красногорский лес.
 
-4 часа бегом или 3 часа на велосипеде.
+Наш любимый традиционный старт по ориентированию в ночных условиях.
 
-Одна из самых интересных местностей Подмосковья. Свободный старт.
+Три дистанции: выбор В1 (40 КП, ~20 км), выбор В2 (20 КП, ~9,5 км), заданное направление ЗН (23 КП, 16,6 км).
 
-[Результаты](https://iorient.ru/Competition.aspx?CompetitionId=123){: .btn .btn-primary}
-[Карта]({{ "/files/2020/map-yolkino2020.png" | relative_url }}){: .btn .btn-primary}
-[Положение]({{ "/2020/06/22/yolkino-info.html" | relative_url}}){: .btn .btn-primary}
+[Результаты и карты]({{ "/2020/11/15/bno-results.html" | relative_url}}){: .btn .btn-primary}
+[Фото](https://vk.com/album-190261264_274434115){: .btn .btn-primary}
+[История](http://tkmgtu.ru/library/Большое_Ночное_Ориентирование){: .btn .btn-primary}
+[Положение]({{ "/2020/11/02/bno2020-maininfo.html" | relative_url}}){: .btn .btn-primary}
 
-<br>
+2020 год
+--------
 
 <div style="float:left;" markdown="1">
 ![logo]({{ "assets/img/2020/logo-fa-100.jpg" | relative_url }})
@@ -70,24 +110,4 @@ sections:
 [Положение]({{ "/2020/07/16/fa-regulations.html" | relative_url}}){: .btn .btn-primary}
 
 <br>
-
-<div style="float:left;" markdown="1">
-![logo]({{ "assets/img/2020/logo-bno-solid-black-100.jpg" | relative_url }})
-</div>
-
-# Большое ночное ориентирование Андрея Зайцева
-<br>
-
-<i class="far fa-lg fa-calendar" aria-hidden="true"></i> 14 ноября. 
-
-<i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Красногорский лес.
-
-Наш любимый традиционный старт по ориентированию в ночных условиях.
-
-Три дистанции: выбор В1 (40 КП, ~20 км), выбор В2 (20 КП, ~9,5 км), заданное направление ЗН (23 КП, 16,6 км).
-
-[Результаты и карты]({{ "/2020/11/15/bno-results.html" | relative_url}}){: .btn .btn-primary}
-[Фото](https://vk.com/album-190261264_274434115){: .btn .btn-primary}
-[История](http://tkmgtu.ru/library/Большое_Ночное_Ориентирование){: .btn .btn-primary}
-[Положение]({{ "/2020/11/02/bno2020-maininfo.html" | relative_url}}){: .btn .btn-primary}
 
