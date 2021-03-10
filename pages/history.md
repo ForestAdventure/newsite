@@ -51,7 +51,7 @@ sections:
             relative: true
             small: true
 
-      - title: Большое ночное ориентирование&nbsp;Андрея Зайцева
+      - title: Большое ночное ориентирование Андрея Зайцева
         logo: assets/img/2020/logo-bno-solid-black-100.jpg
         card_style: text-center
         date: 14 ноября 2020 г.

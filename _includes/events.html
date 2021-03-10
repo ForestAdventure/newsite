@@ -20,6 +20,9 @@
             {% if e.place %}
               <p class="card-text"><i class="fa fa-lg fa-map-marker"></i>&nbsp{{ e.place }}</p>
             {% endif %}
+            {% if e.format %}
+              <p class="card-text"><i class="fa fa-lg fa-clock-o"></i>&nbsp{{ e.format }}</p>
+            {% endif %}
             <p class="card-text">{{ e.text }}</p>
             {% include actions.html actions=e.actions %}
           </div>

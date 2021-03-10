@@ -54,17 +54,14 @@ sections:
         img: assets/img/2021/yolkino1.jpg
         date: 10 июля 2021 г.
         place: Воскресенский ГО
+        format: 5 и 3 часа бегом или на велосипеде
         text: >-
-          5 и 3 часа бегом или на велосипеде
-        actions:
-          - title: Подробнее
-            url: '/yolkino2021'
 
       - title: Рогейн Forest Adventure
         img: assets/img/2021/nerskaya.jpg
         date: 28 августа 2021 г.
         place: Орехово-Зуевский ГО, берег реки Нерской
-        text: 8/4 часа бегом, 6/3 часа на велосипеде
+        format: 8/4 часа бегом, 6/3 часа на велосипеде
 
       - title: Большое ночное ориентирование Андрея Зайцева
         img: assets/img/2021/bno1.jpg
@@ -73,6 +70,7 @@ sections:
         actions:
           - title: Как это было
             url: 'http://tkmgtu.ru/library/Большое_Ночное_Ориентирование'
+            small: true
 
 #  - type: aside.html
 #    section_id: aside
