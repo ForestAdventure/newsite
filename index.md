@@ -10,16 +10,6 @@ header:
 
 
 sections:
-#  - type: call-to-action.html
-#    section_id: about
-#    background_style: bg-primary
-#    title: We've got what you need!
-#    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
-#    actions:
-#      - title: Get Started!
-#        url: '#page-top'
-#        class: btn-light
-#
 #  - type: services.html
 #    section_id: services
 #    #background_style: bg-info
@@ -78,6 +68,17 @@ sections:
             url: 'http://tkmgtu.ru/library/Большое_Ночное_Ориентирование'
             small: true
 
+  - type: call-to-action.html
+    section_id: historylink
+    #background_style: bg-primary
+    background_style: bg-info text-white
+    title: История
+    text: Результаты, карты, фотографии прошедших событий
+    actions:
+      - title: Подробнее
+        url: 'history'
+        class: btn-light
+
 #  - type: aside.html
 #    section_id: aside
 #    title: Free Download at Start Bootstrap!
@@ -116,21 +117,21 @@ sections:
 #        image: assets/img/members/person7.jpg
 #        url: '#'
 
-  - type: timeline.html
-    section_id: timeline
-    title: История
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2015-2019
-          Владимирский рогейн
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          2016-...
-          БНО
-        text:
+#  - type: timeline.html
+#    section_id: timeline
+#    title: История
+#    background_style: bg-dark text-primary
+#    last_image: assets/img/timeline-end.png
+#    actions:
+#      - image: assets/img/portfolio/thumbnails/1.jpg
+#        title: >+
+#          2015-2019
+#          Владимирский рогейн
+#      - image: assets/img/portfolio/thumbnails/2.jpg
+#        title: >+
+#          2016-...
+#          БНО
+#        text:
 
   - type: contact.html
     section_id: contacts
