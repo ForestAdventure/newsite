@@ -70,8 +70,8 @@ sections:
 
   - type: call-to-action.html
     section_id: historylink
-    #background_style: bg-primary
-    background_style: bg-info text-white
+    background_style: bg-primary
+    #background_style: bg-info text-white
     title: История
     text: Результаты, карты, фотографии прошедших событий
     actions:
