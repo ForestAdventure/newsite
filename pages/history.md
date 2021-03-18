@@ -79,7 +79,7 @@ sections:
     #text:
     actions:
       - title: Архив ВР
-        url: 'http://vrogaining.ru/archive'
+        url: 'https://vrogaining.ru/archive'
         class: btn-light
 
   - type: call-to-action.html
@@ -89,7 +89,7 @@ sections:
     #text: 
     actions:
       - title: Страница истории БНО
-        url: 'http://tkmgtu.ru/library/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5_%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%9E%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5'
+        url: 'https://tkmgtu.ru/library/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5_%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%9E%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5'
         class: btn-light
 
 
