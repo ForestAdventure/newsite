@@ -3,6 +3,15 @@ $(document).ready(function(){
     openEffect: "none",
     closeEffect: "none"
   });
+
+  $(".image").function({
+    padding: 0,
+    helpers: {
+      overlay: {
+        locked: false
+      }
+    }
+  });
     
   $(".zoom").hover(function(){
     $(this).addClass('transition');

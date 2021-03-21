@@ -5,6 +5,8 @@
 header:
 - title: Календарь
   url: /#events
+- title: Галерея
+  url: /#gallery
 - title: Контакты
   url: /#contacts
 - title: История
