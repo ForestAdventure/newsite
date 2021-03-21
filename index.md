@@ -137,18 +137,26 @@ sections:
     section_id: gallery
     background_style: bg-dark
     images:
-      - img: portfolio/fullsize/1.jpg
-        thumb: portfolio/thumbnails/1.jpg
-      - img: portfolio/fullsize/2.jpg
-        thumb: portfolio/thumbnails/2.jpg
-      - img: portfolio/fullsize/3.jpg
-        thumb: portfolio/thumbnails/3.jpg
-      - img: portfolio/fullsize/4.jpg
-        thumb: portfolio/thumbnails/4.jpg
-      - img: portfolio/fullsize/5.jpg
-        thumb: portfolio/thumbnails/5.jpg
-      - img: portfolio/fullsize/6.jpg
-        thumb: portfolio/thumbnails/6.jpg
+      - img: portfolio/gallery/0.jpg
+        thumb: portfolio/gallery/thumb0.jpg
+      - img: portfolio/gallery/1.jpg
+        thumb: portfolio/gallery/thumb1.jpg
+      - img: portfolio/gallery/2.jpg
+        thumb: portfolio/gallery/thumb2.jpg
+      - img: portfolio/gallery/3.jpg
+        thumb: portfolio/gallery/thumb3.jpg
+      - img: portfolio/gallery/4.jpg
+        thumb: portfolio/gallery/thumb4.jpg
+      - img: portfolio/gallery/5.jpg
+        thumb: portfolio/gallery/thumb5.jpg
+      - img: portfolio/gallery/6.jpg
+        thumb: portfolio/gallery/thumb6.jpg
+      - img: portfolio/gallery/7.jpg
+        thumb: portfolio/gallery/thumb7.jpg
+      - img: portfolio/gallery/8.jpg
+        thumb: portfolio/gallery/thumb8.jpg
+      - img: portfolio/gallery/9.jpg
+        thumb: portfolio/gallery/thumb9.jpg
 
   - type: contact.html
     section_id: contacts
