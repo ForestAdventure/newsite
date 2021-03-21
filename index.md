@@ -157,6 +157,10 @@ sections:
         thumb: gallery/thumb8.jpg
       - img: gallery/9.jpg
         thumb: gallery/thumb9.jpg
+      - img: gallery/10.jpg
+        thumb: gallery/thumb10.jpg
+      - img: gallery/11.jpg
+        thumb: gallery/thumb11.jpg
 
   - type: contact.html
     section_id: contacts
