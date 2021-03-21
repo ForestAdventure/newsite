@@ -134,7 +134,21 @@ sections:
 #        text:
 
   - type: gallery.html
+    section_id: gallery
     background_style: bg-dark
+    images:
+      - img: portfolio/fullsize/1.jpg
+        thumb: portfolio/thumbnails/1.jpg
+      - img: portfolio/fullsize/2.jpg
+        thumb: portfolio/thumbnails/2.jpg
+      - img: portfolio/fullsize/3.jpg
+        thumb: portfolio/thumbnails/3.jpg
+      - img: portfolio/fullsize/4.jpg
+        thumb: portfolio/thumbnails/4.jpg
+      - img: portfolio/fullsize/5.jpg
+        thumb: portfolio/thumbnails/5.jpg
+      - img: portfolio/fullsize/6.jpg
+        thumb: portfolio/thumbnails/6.jpg
 
   - type: contact.html
     section_id: contacts
