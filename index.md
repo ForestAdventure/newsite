@@ -133,6 +133,9 @@ sections:
 #          БНО
 #        text:
 
+  - type: gallery.html
+    background_style: bg-dark
+
   - type: contact.html
     section_id: contacts
     title: Оставайтесь на связи!
